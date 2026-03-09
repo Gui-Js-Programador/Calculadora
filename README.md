@@ -1,5 +1,4 @@
- Calculadora
- 🧮 Calculadora
+🧮 Calculadora
 
 Projeto simples de calculadora desenvolvido para praticar programação web.
 
