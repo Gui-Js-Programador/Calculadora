@@ -1,9 +1,6 @@
-
-
 let valores = []
-let numeroAtual = []
+let numeroAtual = ""
 let operador = ""
-
 
 function vetor(numero){
     numeroAtual += numero
@@ -52,20 +49,15 @@ function calcular(){
         resultado = valores[0] / valores[1]
     }
 
-
-
-
-
-
     document.getElementById("res").innerText = resultado
     valores = []
         
 }
 
-
-
-
-    function limpar(){
+function limpar(){
+    valores = []
+    numeroAtual = ""
+    operador = ""
         valores.length = 0
         document.getElementById('res').innerText = "0"
     }
