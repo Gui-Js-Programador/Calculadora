@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+    color:maroon;
+    
+}
+.botao{
+  display: grid;
+  grid-template-columns: repeat(4, 60px);
+  gap: 10px;
+ 
+}
+.botao button{
+    height: 70px;
+    font-size: 20px;
+    background-color: rgb(17, 209, 36);
+}
+
+
+.cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 38vh;
+}
+#res{
+    text-align: center;
+    height: 70px;
+    width: 200px;
+    border: 2px solid rgb(134, 183, 61);
+    font-size: 30px;
+    line-height: 60px;
+}
+
+.mod{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: grid;
+    height: 35vh;
+
+}
+.limpar{
+    width: 131px;
+}
