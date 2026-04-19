@@ -15,14 +15,12 @@ Projeto de uma calculadora feita com HTML, CSS e JavaScript.
 * CSS
 * JavaScript
 
-## 📷 Preview
+Uma calculadora web desenvolvida com HTML, CSS e JavaScript, com o objetivo de praticar lógica de programação e manipulação do DOM.
 
-(coloque aqui um print do projeto)
+A aplicação permite realizar operações matemáticas básicas de forma rápida e intuitiva, com uma interface simples e funcional.
 
-## ▶️ Como rodar
+Este projeto foi criado como parte dos meus estudos em desenvolvimento front-end, focando em conceitos essenciais como eventos, funções e atualização dinâmica da interface.
 
-1. Baixe o projeto
-2. Abra o arquivo `index.html` no navegador
 
 ## 📌 Autor
 
